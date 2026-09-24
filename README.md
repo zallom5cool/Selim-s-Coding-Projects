@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Selim's Favorite Video Games & Shows</title>
+    <style>
+  h2,h3 {
+    font-weight: normal;
+  }
+</style>
+</head>
+<style>body {
+    background-color: #559dd1;
+}
+</style>
+<body>
+<main>
+<h1>All Of My Favorite Video Games & TV Shows</h1>
+<h2>Video Games</h2>
+<h3>1. Rocket League</h3>
+<img src="./Rocket League.jpeg" alt="Rocket League Car" width="150">
+<p>One of my classics. I've been playing it since 2021. I love playing it in absolutely any game mode with or without friends. Probably my number 1 game on this list.
+<h3>2. Minecraft</h3>
+<img src="./Minecraft.jpeg" alt="Minecraft" width="150">
+<p>One of my favorites in this list and all time.</p>
+<p>My dad bought it for me when I was just a little boy back in 2021. I played it so much on my new Nintendo Switch that came with it, I reckon it's my most played game of all time. I still play it to this day when I have time.</p>
+<h3>3. Spider-Man</h3>
+<img src="./Spiderman.jpeg" width="150">
+<p>One of my favorite video game series of all time. There was actually a part 2 of this game but I preferred the original. I started it in 2022 and finished in 2023 right before the new game came out. Still amazed by the ending though.</p>
+<p>Best PlayStation game I ever played.</p>
+<h3>4. Fortnite</h3>
+<img src="./Fortnite.jpeg"width=150>
+<p>One of my less favorites in this list.</p>
+<p> I used to love it a few years ago but not anymore as I grew older. I don't usually play it alone but with friends or my cousin. It's better in multiplayer modes.</p>
+<h3>5. Doors</h3> 
+<img src="./Doors.jpeg" width="150">
+<p>This used to be one of my greatest games ever.</p>
+<p> I would play it a lot from 2022 to 2024  whether alone with friends or my cousin. It was amazing. I don't hate it now, I just haven't checked it out for a while.</p>
+<h3>6. Among Us</h3>
+<img src="./Among Us.jpeg" width="150">
+<p>My longest lasting game. I still like playing to thsi day even if I'm a bit too old. I started playing it around 2020 during peak covid and still play it to this day. i just played it a lot with my sister and both of my cousins last summer.</p>
+<h3>7. Sackboy: A Big Adventure</h3>
+<img src="./Sackboy.jpeg" width="150">
+<p>Last but not least, Sackboy: A Big Adventure, or I just call it Sackboy. I like this game but don't play it often. I do play it with my sister sometimes when she wants to game a bit.</p>
+<h2> TV Shows</h2>
+<h3>1. The Amazing World of Gumball</h3>
+<img src="./Gumball.jpeg" width="150">
+<p>Ok, I got to be pretty honest, I never even though of this show to put here. It's just the code editor suggested and I remembered my wonderful memories of watching it as a kid. Like really a kid, even before covid.</p>
+<p> I loved watching it  and I would for the Cartoon Network channel all day just to broadcast a new episode. I spent most of my 2019-2020 summer watching it. I reckon 2018 too but I was just too little, I can't remember back almost a decade ago</p>
+<h3>2. Regular Show</h3>
+<img src="./Regular Show.jpeg" width="150">
+<p>Ok this code was probably stalking young me. Another show I loved It was pretty funny and had some great episodes. I never actually thought of it but the code editor again reminded me of my great childhood shows.</p>
+<p> I liked watching it a lot on  Cartoon Network back when I was younger in 2020-2021 I think.</p>
+<h3>3. Stranger Things</h3>
+<img src="./Stranger Things.jpeg" width="150">
+<p>I started watching this show right when it peaked and before its final season. I loved watching it so much from October-December of 2025. I would try to finish as early as I can in schoolwork just to binge watch it everyday.</p>
+<p>Now, I did love it a lot but it wasn't really my idea to watch it, it's just my friend insisted I do and yes he was right, but now as I think about it almost 1 year later, it was kind of cringe. Oh well, at least the memories were great.</p>
+<h3>4. The Mentalist</h3>
+<img src="./The Mentalist.jpeg" width="150">
+<p>Now I can't really judge this show much except saying it's amazing. I only started watching it very recently but I really like. I don't wanna finish it, I hope it lasts so long with me. It was actually my dad's idea and my Youtube algorithm's idea to get me watching it. Patrick Jane is so peak I can't lie. </p>
+<p>Tell him hi by the way, he's right there!</p>
+<h2>Thank You For Your Time!</h2>
+</main>
+</body>
